@@ -1,31 +1,45 @@
 # Budget2024_Analysis_PowerBI_Dashboard
 
-𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗸𝗲𝘆 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
-<ol>
-<li> 𝐓𝐨𝐩 𝟱 𝐌𝐢𝐧𝐢𝐬𝐭𝐫𝐢𝐞𝐬 𝐛𝐲 𝐓𝐨𝐭𝐚𝐥 𝐂𝐚𝐩𝐢𝐭𝐚𝐥 𝐀𝐥𝐥𝐨𝐜𝐚𝐭𝐢𝐨𝐧:</li>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Key Insights</title>
+    <style>
+        .bold {
+            font-weight: bold;
+        }
+        .insights {
+            font-size: 1.2em;
+        }
+        .category {
+            font-weight: bold;
+            font-size: 1.1em;
+        }
+    </style>
+</head>
+<body>
+    <div class="insights bold">Here are the key insights:</div>
 
-<li>𝗥𝗼𝗮𝗱 𝗧𝗿𝗮𝗻𝘀𝗽𝗼𝗿𝘁: Highest allocation for infrastructure development.</li>
-<li>𝗥𝗮𝗶𝗹𝘄𝗮𝘆𝘀: Significant investments in expanding and modernizing the railway network.</li>
-<li>𝗗𝗲𝗳𝗲𝗻𝗰𝗲: Consistent funding for national security and defense capabilities.</li>
-<li>𝗙𝗶𝗻𝗮𝗻𝗰𝗲: Substantial allocation for managing the country’s finances.</li>
-<li>𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀: Investments in improving communication infrastructure.</li>
+    <p><span class="category">(1) Top 5 Ministries by Total Capital Allocation:</span></p>
+    <p class="bold">Road Transport:</span> Highest allocation for infrastructure development.</p>
+    <p class="bold">Railways:</span> Significant investments in expanding and modernizing the railway network.</p>
+    <p class="bold">Defence:</span> Consistent funding for national security and defense capabilities.</p>
+    <p class="bold">Finance:</span> Substantial allocation for managing the country’s finances.</p>
+    <p class="bold">Communications:</span> Investments in improving communication infrastructure.</p>
 
+    <p><span class="category">(2) Top Ministries by Revenue and Capital:</span></p>
+    <p class="bold">Finance:</span> Leading in revenue generation and overall budget.</p>
+    <p class="bold">Defence:</span> High capital allocation reflecting national security priorities.</p>
+    <p class="bold">Consumer Affairs, Food and Public Distribution:</span> Focus on food security and consumer welfare.</p>
 
-<li> 𝐓𝐨𝐩 𝐌𝐢𝐧𝐢𝐬𝐭𝐫𝐢𝐞𝐬 𝐛𝐲 𝐑𝐞𝐯𝐞𝐧𝐮𝐞 𝐚𝐧𝐝 𝐂𝐚𝐩𝐢𝐭𝐚𝐥:</li>
+    <p><span class="category">(3) Budget Allocation Trends:</span></p>
+    <p class="bold">Steady Growth:</span> Notable average growth per year in key sectors.</p>
+    <p class="bold">Infrastructure and Defense:</span> Consistent and significant investment, indicating prioritization of these areas.</p>
 
-<li>𝗙𝗶𝗻𝗮𝗻𝗰𝗲: Leading in revenue generation and overall budget.</li>
-<li>𝗗𝗲𝗳𝗲𝗻𝗰𝗲: High capital allocation reflecting national security priorities.</li>
-<li>𝗖𝗼𝗻𝘀𝘂𝗺𝗲𝗿 𝗔𝗳𝗳𝗮𝗶𝗿𝘀, 𝗙𝗼𝗼𝗱 𝗮𝗻𝗱 𝗣𝘂𝗯𝗹𝗶𝗰 𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻: Focus on food security and consumer welfare.</li>
+    <p><span class="category">(4) Detailed Budget Analysis by Year:</span></p>
+    <p class="bold">2020-2024 Trends:</span> Visualization of budget allocation over the years shows a clear trend in increasing investments in the mentioned sectors.</p>
+    <p class="bold">Breakdown by Ministry:</span> Detailed look at how each ministry’s budget has evolved, highlighting key changes and growth patterns.</p>
 
-<li> 𝐁𝐮𝐝𝐠𝐞𝐭 𝐀𝐥𝐥𝐨𝐜𝐚𝐭𝐢𝐨𝐧 𝐓𝐫𝐞𝐧𝐝𝐬:</li>
-
-<li>𝗦𝘁𝗲𝗮𝗱𝘆 𝗚𝗿𝗼𝘄𝘁𝗵: Notable average growth per year in key sectors.</li>
-<li>𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝗗𝗲𝗳𝗲𝗻𝘀𝗲: Consistent and significant investment, indicating prioritization of these areas.</li>
-
-<li> 𝐃𝐞𝐭𝐚𝐢𝐥𝐞𝐝 𝐁𝐮𝐝𝐠𝐞𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐛𝐲 𝐘𝐞𝐚𝐫:</li>
-
-<li>𝟮𝟬𝟮𝟬-𝟮𝟬𝟮𝟰 𝗧𝗿𝗲𝗻𝗱𝘀: Visualization of budget allocation over the years shows a clear trend in increasing investments in the mentioned sectors.</li>
-<li>𝗕𝗿𝗲𝗮𝗸𝗱𝗼𝘄𝗻 𝗯𝘆 𝗠𝗶𝗻𝗶𝘀𝘁𝗿𝘆: Detailed look at how each ministry’s budget has evolved, highlighting key changes and growth patterns.</li>
-</ol>
-
-Using Power BI, I created this dashboards that provide a comprehensive view of the budget data. This project has greatly enhanced my data analysis, visualization skills, and my understanding of budget allocation and financial planning.
+    <p>Using Power BI, I created these dashboards that provide a comprehensive view of the budget data. This project has greatly enhanced my data analysis, visualization skills, and my understanding of budget allocation and financial planning.</p>
+</body>
+</html>
