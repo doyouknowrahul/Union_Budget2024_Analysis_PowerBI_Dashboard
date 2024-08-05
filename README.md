@@ -10,11 +10,12 @@
 <li>𝗙𝗶𝗻𝗮𝗻𝗰𝗲: Substantial allocation for managing the country’s finances.</li>
 <li>𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀: Investments in improving communication infrastructure.</li>
 
+
 (𝟐) 𝐓𝐨𝐩 𝐌𝐢𝐧𝐢𝐬𝐭𝐫𝐢𝐞𝐬 𝐛𝐲 𝐑𝐞𝐯𝐞𝐧𝐮𝐞 𝐚𝐧𝐝 𝐂𝐚𝐩𝐢𝐭𝐚𝐥:
 
-𝗙𝗶𝗻𝗮𝗻𝗰𝗲: Leading in revenue generation and overall budget.
-𝗗𝗲𝗳𝗲𝗻𝗰𝗲: High capital allocation reflecting national security priorities.
-𝗖𝗼𝗻𝘀𝘂𝗺𝗲𝗿 𝗔𝗳𝗳𝗮𝗶𝗿𝘀, 𝗙𝗼𝗼𝗱 𝗮𝗻𝗱 𝗣𝘂𝗯𝗹𝗶𝗰 𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻: Focus on food security and consumer welfare.
+<li>𝗙𝗶𝗻𝗮𝗻𝗰𝗲: Leading in revenue generation and overall budget.</li>
+<li>𝗗𝗲𝗳𝗲𝗻𝗰𝗲: High capital allocation reflecting national security priorities.</li>
+<li>𝗖𝗼𝗻𝘀𝘂𝗺𝗲𝗿 𝗔𝗳𝗳𝗮𝗶𝗿𝘀, 𝗙𝗼𝗼𝗱 𝗮𝗻𝗱 𝗣𝘂𝗯𝗹𝗶𝗰 𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻: Focus on food security and consumer welfare.</li>
 
 (𝟑) 𝐁𝐮𝐝𝐠𝐞𝐭 𝐀𝐥𝐥𝐨𝐜𝐚𝐭𝐢𝐨𝐧 𝐓𝐫𝐞𝐧𝐝𝐬:
 
