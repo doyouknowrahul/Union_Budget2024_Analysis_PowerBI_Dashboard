@@ -4,11 +4,11 @@
 
 (𝟏) 𝐓𝐨𝐩 𝟱 𝐌𝐢𝐧𝐢𝐬𝐭𝐫𝐢𝐞𝐬 𝐛𝐲 𝐓𝐨𝐭𝐚𝐥 𝐂𝐚𝐩𝐢𝐭𝐚𝐥 𝐀𝐥𝐥𝐨𝐜𝐚𝐭𝐢𝐨𝐧:
 
-𝗥𝗼𝗮𝗱 𝗧𝗿𝗮𝗻𝘀𝗽𝗼𝗿𝘁: Highest allocation for infrastructure development.
-𝗥𝗮𝗶𝗹𝘄𝗮𝘆𝘀: Significant investments in expanding and modernizing the railway network.
-𝗗𝗲𝗳𝗲𝗻𝗰𝗲: Consistent funding for national security and defense capabilities.
-𝗙𝗶𝗻𝗮𝗻𝗰𝗲: Substantial allocation for managing the country’s finances.
-𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀: Investments in improving communication infrastructure.
+<li>𝗥𝗼𝗮𝗱 𝗧𝗿𝗮𝗻𝘀𝗽𝗼𝗿𝘁: Highest allocation for infrastructure development.</li>
+<li>𝗥𝗮𝗶𝗹𝘄𝗮𝘆𝘀: Significant investments in expanding and modernizing the railway network.</li>
+<li>𝗗𝗲𝗳𝗲𝗻𝗰𝗲: Consistent funding for national security and defense capabilities.</li>
+<li>𝗙𝗶𝗻𝗮𝗻𝗰𝗲: Substantial allocation for managing the country’s finances.</li>
+<li>𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀: Investments in improving communication infrastructure.</li>
 
 (𝟐) 𝐓𝐨𝐩 𝐌𝐢𝐧𝐢𝐬𝐭𝐫𝐢𝐞𝐬 𝐛𝐲 𝐑𝐞𝐯𝐞𝐧𝐮𝐞 𝐚𝐧𝐝 𝐂𝐚𝐩𝐢𝐭𝐚𝐥:
 
