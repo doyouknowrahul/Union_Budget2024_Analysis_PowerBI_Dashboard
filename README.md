@@ -1,7 +1,7 @@
 # Budget2024_Analysis_PowerBI_Dashboard
 
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗸𝗲𝘆 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
-
+<ol>
 <li> 𝐓𝐨𝐩 𝟱 𝐌𝐢𝐧𝐢𝐬𝐭𝐫𝐢𝐞𝐬 𝐛𝐲 𝐓𝐨𝐭𝐚𝐥 𝐂𝐚𝐩𝐢𝐭𝐚𝐥 𝐀𝐥𝐥𝐨𝐜𝐚𝐭𝐢𝐨𝐧:</li>
 
 <li>𝗥𝗼𝗮𝗱 𝗧𝗿𝗮𝗻𝘀𝗽𝗼𝗿𝘁: Highest allocation for infrastructure development.</li>
@@ -26,5 +26,6 @@
 
 <li>𝟮𝟬𝟮𝟬-𝟮𝟬𝟮𝟰 𝗧𝗿𝗲𝗻𝗱𝘀: Visualization of budget allocation over the years shows a clear trend in increasing investments in the mentioned sectors.</li>
 <li>𝗕𝗿𝗲𝗮𝗸𝗱𝗼𝘄𝗻 𝗯𝘆 𝗠𝗶𝗻𝗶𝘀𝘁𝗿𝘆: Detailed look at how each ministry’s budget has evolved, highlighting key changes and growth patterns.</li>
+</ol>
 
 Using Power BI, I created this dashboards that provide a comprehensive view of the budget data. This project has greatly enhanced my data analysis, visualization skills, and my understanding of budget allocation and financial planning.
